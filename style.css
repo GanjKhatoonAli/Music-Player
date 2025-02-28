@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+      background-image: url(https://i.gifer.com/Z0dU.gif);  
+      /* background-image: linear-gradient(to right, rgb(196, 49, 74), purple, grey); */
+    text-align: center;
+    background-size: cover;
+    font-family:'Times New Roman', Times, serif;
+}
+.hello{
+    background-size:cover;
+    background-color:rgb(29, 63, 77);
+    margin: 40px 100px 100px 100px;
+    border: 2px solid beige;
+    text-align: center;
+    border-radius: 30px;
+    padding: 5px;
+    width: 400px;
+    box-shadow: 5px 5px 20px sandybrown;
+    padding: 10px;
+    cursor: pointer;
+}
+.hello:hover{
+    box-shadow: 5px 5px 10px 10px seashell; 
+}
+h1{
+    /* color:bisque; */
+    text-shadow: 2px 3px 5px skyblue;
+    font-style: italic;
+    font-size: 40px;
+    border-radius: 40px;
+}
+.pic{
+    border-radius: 500px;
+    border: 4px double beige;
+}
+h2{
+    /* color: rgb(231, 175, 231); */
+}
+
+audio{
+    height: 30px;
+    width: 400px;
+}
+.icon{
+width: 50px;
+margin-right: 20px;
+}
+.hey{
+    width: 50px;
+margin-left: 20px;
+}
+.name{
+    width: 500px;
+    margin-top: -600px;
+    margin-left: 600px;
+}
+.head{
+    color: beige;
+}
+.hii{
+    color: beige;
+}
